@@ -6,8 +6,7 @@ from werkzeug.utils import secure_filename
 
 # Flask app
 app = Flask(__name__, static_folder='static', static_url_path='/')
-CORS(app, origins="http://localhost:3000", supports_credentials=True)  # Allow React (localhost:3000) to make requests to Flask
-
+CORS(app, origins=["http://localhost:3000", "https://securetrack-backend.onrender.com"], supports_credentials=True)
 UPLOAD_FOLDER = 'uploads'
 ALLOWED_EXTENSIONS = {'csv'}
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
