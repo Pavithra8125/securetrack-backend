@@ -56,7 +56,7 @@ The backend is deployed on **Render** and accessible at [https://securetrack-bac
 Check it (File Name: Sample file.csv) in the frontend repository.
 
 ## 🔗 Frontend Repository
-Access the frontend code here:[SecureTrack Frontend Repository](github.com/Pavithra8125/securetrack-frontend)
+Access the frontend code here:[SecureTrack Frontend Repository](https://github.com/Pavithra8125/securetrack-frontend)
 
 ## 🤝 Contributing
 
