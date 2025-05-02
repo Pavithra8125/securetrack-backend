@@ -46,7 +46,6 @@ The backend will be running on [http://localhost:5000](http://localhost:5000)
 
 -  GET /download-report: Downloads the generated report in CSV or PDF format.
 
- SecureTrack Frontend: [Frontend](https://github.com/Pavithra8125/securetrack-frontend)
 ---
 ## 🚀 Deployment
 
@@ -56,7 +55,10 @@ The backend is deployed on **Render** and accessible at [https://securetrack-bac
 ## 📝 Sample CSV for Testing:
 Check it (File Name: Sample file.csv) in the frontend repository.
 
-## 🚀 Contributing
+## 🔗 Frontend Repository
+Access the frontend code here:[SecureTrack Frontend Repository](github.com/Pavithra8125/securetrack-frontend)
+
+## 🤝 Contributing
 
 Feel free to open issues or submit pull requests to improve the project.
 Contributions are always welcome!
